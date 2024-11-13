@@ -10,4 +10,5 @@ The game consists of a car that you can move left to right to avoid obstacles, t
 
 ![image](https://github.com/user-attachments/assets/fe012fb2-cbc5-4635-a7d6-56564362fe0f)
 
-![image](https://github.com/user-attachments/assets/7ca41787-072a-44f8-9f81-3625379772c0)
+![image](https://github.com/user-attachments/assets/4a16832d-e3fc-42a5-b7ef-01883b338f2c)
+
