@@ -10,9 +10,11 @@ Power-ups include automatic firing, bullet spray, and flying.
 
 Obstacles include parked cars, pedestrians crossing the street, and helicopters that may get in the way of your ramps or become obstacles when the flying powerup is engaged.
 
-## Play Game
+# Play Game
 
 You can download the Build folder to play the game in its current form.
+
+# Photos
 
 ![image](https://github.com/user-attachments/assets/7d867483-6552-47ed-a801-c5d16266105e)
 
